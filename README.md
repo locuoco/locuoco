@@ -21,11 +21,15 @@ My statistics:
 </div>
 <div id="toplangs" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locuoco&layout=compact&theme=vision-friendly-light" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locuoco&count_private=true&layout=compact&theme=vision-friendly-light" alt="Top Langs"/>
   </a>
 </div>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=locuoco&theme=light&background=EEEEEE)](https://git.io/streak-stats)
+<!-- 
+
+JUST COMMENTS
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=locuoco&theme=light&background=EEEEEE)](https://git.io/streak-stats)
 
 [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=locuoco&count_private=true&show_icons=True&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
