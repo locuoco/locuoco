@@ -16,12 +16,12 @@ My contacts:
 My statistics:
 <div id="stats" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-locuoco.vercel.app/api?username=locuoco&rank_icon=github&show_icons=True&theme=light" alt="Stats"/>
+    <img src="https://github-readme-stats-locuoco.vercel.app/api?username=locuoco&rank_icon=github&show_icons=True&theme=light" decoding="async" loading="lazy" alt="Stats"/>
   </a>
 </div>
 <div id="toplangs" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-locuoco.vercel.app/api/top-langs/?username=locuoco&layout=compact&theme=vision-friendly-light" alt="Top Langs"/>
+    <img src="https://github-readme-stats-locuoco.vercel.app/api/top-langs/?username=locuoco&layout=compact&theme=vision-friendly-light" decoding="async" loading="lazy" alt="Top Langs"/>
   </a>
 </div>
 
