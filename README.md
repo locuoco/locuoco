@@ -18,8 +18,6 @@ My statistics (if they don't load, refresh the page):
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-locuoco.vercel.app/api?username=locuoco&rank_icon=github&show_icons=True&theme=light" decoding="async" loading="lazy" alt="Stats"/>
   </a>
-</div>
-<div id="toplangs" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-locuoco.vercel.app/api/top-langs/?username=locuoco&layout=compact&theme=vision-friendly-light" decoding="async" loading="lazy" alt="Top Langs"/>
   </a>
