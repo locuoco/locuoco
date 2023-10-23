@@ -11,7 +11,7 @@ My contacts:
   <a href="mailto:alessandro.locuoco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/locuoco">
+  <a href="https://www.instagram.com/alessandro.locuoco">
     <img src="https://img.shields.io/badge/Instagram-lightblue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
