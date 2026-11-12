@@ -9,6 +9,8 @@ I currently work as a freelance software engineering consultant. My responsibili
 - configuring and manage Docker environments to reproduce issues and run test suites across C++, Python, Java, JavaScript, TypeScript, Go and Ruby projects.
 - I also took part in several pilot projects, e.g., ML engineering benchmark evaluations of AI agent performance on Machine Learning tasks using PyTorch and JAX.
 
+I currently use my GitHub profile to host and maintain my personal and university projects.
+
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=locuoco&style=flat-square&color=blue" alt=""/>
 </div>
